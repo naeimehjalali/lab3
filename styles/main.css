@@ -1,0 +1,50 @@
+body {
+   color: #0c0c0c;
+  background-color: #f7f7f2;
+   font-family: white, Geneva, Tahoma, sans-serif;
+}
+
+#wrapper {
+  width: 100%;
+  background-color: #f0f0f3;
+  margin: 0 auto;
+  min-width: 800px;
+  max-width: 1024px;
+}
+header {
+  width: 100%;
+    color: #000000;
+  background-color: #041042;
+   text-align: left;
+   
+}
+#sidebara{
+  width: 15%;
+  float: left;
+  border-right: 2px
+  background-color:rgb(15, 107, 119);
+
+  text-decoration-color: #000000;
+  margin-left: 0cm;
+  font-size: 12cm;
+  
+}
+main{
+  width: 45%;
+}
+#sidebarB{
+  width: 40%;
+  margin-right: 2px
+  float: right;
+ 
+ }
+
+footer {
+    background-color:whitesmoke;
+  text-align: center;
+  font-size: 0.7em;
+  font-style: italic;
+}
+
+
+
